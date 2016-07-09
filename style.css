@@ -1,0 +1,473 @@
+
+body{
+	margin:0px;
+}
+
+div{
+
+	float: left;
+}
+
+.back{
+	width:100%;
+	height:1440px;
+	background-image: url(image/bg.png);
+	position: absolute;
+}
+
+.top{
+	width:1260px;
+	height:1399px;
+	background-color: black;
+	margin:20px 0px 0px 10px;
+
+}
+
+.header{
+	width:100%;
+	height:360px;
+	background-color: green;
+
+}
+
+.userImg{
+	width:30%;
+	height:360px;
+
+}
+.userImg img{
+	width: 100%;
+	height: 100%;
+}
+
+.userInfo{
+	width:70%;
+	height:360px;
+	background-color: blue;
+
+}
+
+.userName{
+	width:100%;
+	height: 120px;
+	background-color: rgb(80,80,80);
+
+}
+
+.Name{
+	width:85%;
+	height:120px;
+
+}
+
+.Name h2{
+	font-size: 40px;
+	color:white;
+	margin: 40px 0px 0px 40px;
+
+
+}
+
+.downloadIcon{
+	width: 15%;
+	height: 120px;
+	background-color: rgb(73,73,73);
+
+}
+
+
+.userJob{
+	width:100%;
+	height: 120px;
+	background-color: rgb(65,65,65);
+	font-size: 24px;
+
+}
+
+.job{
+	width: 85%;
+	height: 120px;
+	background-color: rgb(65,65,65);
+
+
+}
+
+.job div{
+	color:rgb(238,239,239);
+	margin: 50px 0px 0px 40px;
+
+}
+
+.BeIcon{
+	width: 15%;
+	height: 120px;
+	background-color: rgb(58,58,58);
+}
+
+
+.Navi{
+	width:100%;
+	height: 120px;
+
+}
+
+.Navi span{
+	color:white;
+	margin: 20px 0px 0px 35px;
+}
+
+
+
+.homeNavi{
+	width:147px;
+	height:120px;
+	background-color: rgb(105,187,156);
+
+}
+
+.resumeNavi{
+	width:147px;
+	height:120px;
+	background-color: rgb(92,149,218);
+
+}
+
+.portfolioNavi{
+	width:147px;
+	height:120px;
+	background-color: rgb(139,86,180);
+
+}
+
+.contactsNavi{
+	width:147px;
+	height:120px;
+	background-color: rgb(208,125,31);
+
+
+}
+
+.feedbackNavi{
+	width:147px;
+	height:120px;
+	background-color: rgb(203,76,57);
+
+}
+
+.blogNavi{
+	width:147px;
+	height:120px;
+	background-color: rgb(205,168,31);
+
+
+}
+
+.content{
+	width:100%;
+	height: 840px;
+	background-color: red;
+
+}
+
+.contentTop{
+	width: 100%;
+	height: 400px;
+
+}
+
+.About{
+	width: 65%;
+	height: 400px;
+	background-color: rgb(255,255,255);
+
+}
+
+.aboutBox{
+	width:85%;
+	height:350px;
+	margin: 25px 0px 0px 60px;
+}
+
+.aboutTop{
+	width:100%;
+	height:120px;
+
+}
+
+.aboutMe{
+	width:100%;
+	height:50px;
+}
+
+.aboutMe h3{
+	font-size:32px;
+	margin: 0px;
+	color:rgb(51,51,51);
+
+}
+
+.aboutMe h5{
+	font-size:15px;
+	margin: 20px 0px 0px 0px;
+	color:rgb(203,76,57);
+
+}
+
+
+.aboutBottom{
+	width:100%;
+	height: 230px;
+
+}
+
+.Creative{
+	width:33%;
+	height:200px;
+
+}
+
+.Motivated{
+	width:33%;
+	height:200px;
+
+}
+
+.Punctual{
+	width:33%;
+	height:200px;
+
+}
+
+.aboutBottom h5{
+	color:rgb(51,51,51);
+	margin: 10px 0px 0px 80px;
+
+}
+
+.aboutBottom p{
+	color:rgb(127,127,127);
+	margin: 10px 0px 0px 80px;
+
+}
+
+.Info{
+	width: 35%;
+	height: 400px;
+	background-color: rgb(238,239,239);
+
+}
+
+.InfoBox{
+	width:85%;
+	height:330px;
+	margin: 35px 0px 0px 35px;
+
+}
+
+.InfoBox h3{
+	color:rgb(51,51,51);
+	font-size: 32px;
+	margin: 0;
+
+}
+
+.InfoBox p{
+	color:rgb(51,51,51);
+	font-size: 12px;
+
+}
+
+.InfoName{
+	width: 100%;
+	height: 66px;
+	float: left;
+	font-size: 12px;
+
+}
+
+.InfoDOB{
+	width: 100%;
+	height: 66px;
+	float: left;
+	font-size: 12px;
+}
+
+.InfoAddress{
+	width: 100%;
+	height: 66px;
+	float: left;
+	font-size: 12px;
+
+}
+
+.InfoPhone{
+	width: 100%;
+	height: 66px;
+	float: left;
+	font-size: 12px;
+
+}
+
+.InfoEmail{
+	width: 100%;
+	height: 66px;
+	float: left;
+	font-size: 12px;
+
+}
+
+.contentBottom{
+	width: 100%;
+	height: 440px;
+	background-color: blue;
+
+
+}
+
+.experience{
+	width:30%;
+	height: 440px;
+	background-color: rgb(136,84,176);
+
+}
+
+.experienceBox{
+	width: 85%;
+	height: 400px;
+	margin: 20px 0px 0px 27px;
+	color:white;
+
+}
+
+.experienceBox li{
+	font-size: 10px;
+
+}
+
+.experienceBox a{
+	font-size: 13px;
+
+}
+
+.experienceBox h3{
+	color:white;
+	margin: 0;
+	font-size: 32px;
+}
+
+.skills{
+	width: 70%;
+	height: 440px;
+	background-color: rgb(92,149,218);
+
+}
+
+.skillsBox{
+	width:85%;
+	height: 400px;
+	margin: 20px 0px 0px 70px;
+
+}
+
+.skillsBox h3{
+
+	margin: 0px;
+	color:white;
+	font-size: 32px;
+}
+
+.graph{
+	width:100%;
+	height:300px;
+	padding-top: 10px;
+}
+
+.graph h4{
+
+	padding:130px 0px 0px 40px;
+	color:white;
+}
+
+.graph p{
+	font-size: 13px;
+	padding:0px 0px 0px 40px;
+	color:white;
+
+}
+
+.Prototyping{
+	width: 33%;
+	height: 270px;
+
+}
+
+.Design{
+	width: 33%;
+	height: 270px;
+
+}
+
+.Development{
+	width: 33%;
+	height: 270px;
+}
+
+.footer{
+	width:100%;
+	height: 199px;
+	background-color: rgb(73,73,73);
+
+}
+
+.footerName{
+
+	width:25%;
+	height: 150px;
+	margin: 20px 0px 0px 0px;
+}
+
+.footerCV{
+	width:25%;
+	height: 150px;
+	margin: 20px 0px 0px 0px;
+
+}
+
+.footerEmail{
+	width:25%;
+	height: 150px;
+	margin: 20px 0px 0px 0px;
+
+}
+
+.footerSocial{
+	width:25%;
+	height: 150px;
+	margin: 20px 0px 0px 0px;
+
+
+}
+
+.footer h4{
+	color:rgb(238,239,239);
+	font-size: 18px;
+
+}
+
+.footer p{
+	font-size: 12px;
+	color: rgb(169,169,169);
+
+}
+
+.footer a{
+	font-size: 15px;
+	color: rgb(169,169,169);
+
+}
+
+.footerEmailBox{
+	border-color: rgb(126,126,126);
+	background-color: rgba(255, 255, 255, 0);
+}
+
