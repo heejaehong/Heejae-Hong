@@ -1,0 +1,346 @@
+body{
+
+	margin: 0;
+}
+
+.back{
+	background-image: url(../image/bg.png);
+	height: 100%;
+	width: 100%;
+
+
+}
+
+.userPhoto{
+	background-image: url(../image/userpic01.jpg);
+	min-height: 300px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	transition: all .5s ease-in-out;
+
+}
+
+.userInfo{
+	background-color:black;
+	height: 300px;
+
+}
+
+.name-title{
+	background-color: rgb(80,80,80);
+	height:100px;
+	color:white;
+
+}
+
+.downloadIcon{
+	background-color: rgb(73,73,73);
+	height: 100px;
+
+}
+
+.job-title{
+	background-color: rgb(65,65,65);
+	height: 100px;
+	color:rgb(238,239,239);
+
+}
+
+
+.Be{
+	background-color: rgb(58,58,58);
+	height: 100px;
+
+}
+
+.subNavi-title{
+	background-color: orange;
+	height: 100px;
+
+}
+
+.naviIcon1{
+	background-color: rgb(105,187,156);
+	height: 100px;
+	color:white;
+
+
+}
+
+.naviIcon2{
+	background-color: rgb(92,149,218);
+	height: 100px;
+	color:white;
+
+}
+
+.naviIcon3{
+	background-color: rgb(139,86,180);
+	height: 100px;
+	color:white;
+}
+
+.naviIcon4{
+	background-color: rgb(208,125,31);
+	height: 100px;
+	color:white;
+}
+
+.naviIcon5{
+	background-color: rgb(203,76,57);
+	height: 100px;
+	color:white;
+}
+
+.naviIcon6{
+	background-color: rgb(205,168,31);
+	height: 100px;
+	color:white;
+}
+
+
+h2{
+
+	margin:0px;
+}
+
+
+.about-Me{
+	background-color: white;
+	height:350px;
+
+}
+
+.about-Me h3{
+	font-size:32px;
+	margin: 0px;
+	color:rgb(51,51,51);
+
+}
+
+.about-title h5{
+	font-size:15px;
+	color:rgb(203,76,57);
+
+}
+.about{
+	padding:35px 50px 40px 50px;
+
+}
+
+
+.personal-Info{
+	background-color: rgb(238,239,239);
+	height:350px;	
+}
+
+.padding-50{
+	margin:35px 50px 40px 50px;
+
+}
+
+.uppercase{
+	text-transform: uppercase;
+
+}
+
+.fullwidth{
+	width: 100% !important;
+
+}
+
+.personal .box .one{
+	display: inline-block;
+	width:30%;
+	margin-right:21px;
+	z-index: 2;
+	padding-top:2px;
+	vertical-align: top;
+
+}
+
+.personal .box{
+	margin: 0 0 11px 0;
+	display: block;
+	padding-bottom: 12px;
+
+}
+
+.dividewhite3{
+
+	height: 30px;
+}
+
+.personal .box .one p{
+	font-weight: 700;
+	margin: 0;
+	color:#2f2f2f;
+
+}
+
+.personal .box .two{
+
+	display: inline-block;
+	color:#2f2f2f;
+	position: relative;
+	width: 60%;
+
+}
+
+.personal .box .two p{
+	margin: 0;
+
+}
+
+.ui-block-color02{
+
+	background-color: rgb(136,84,176) !important;
+	height:450px;
+}
+
+.ExpSkillTop{
+
+	display: block;
+}
+
+.pro-experience{
+	height: 418px;
+
+}
+
+.padding{
+
+	margin: 35px 50px 40px 50px;
+}
+
+.experienceTitle h3{
+	margin: 0px;
+	color:#ffffff;
+
+}
+
+.dividewhite4{
+
+	height: 40px;
+
+}
+
+.experience{
+
+	border-left:1px solid rgba(255, 255, 255, 0.4);
+	padding-left:24px;
+	margin-left:7px;
+}
+
+.ExperienceTop{
+
+	color:white;
+
+}
+
+.ui-block-color03{
+
+	background-color:#3498db !important;
+
+}
+
+.skill{
+
+	background-color: rgb(92,149,218);
+	height:450px;
+}
+
+h3{
+
+	font-size: 24px;
+}
+
+.skillTitle{
+
+	color:white;
+}
+
+.skillText h3{
+	margin:0;
+
+}
+
+.dividewhite1{
+
+	height: 10px;
+}
+
+.skillRow{
+
+	margin:0 -15px 0 -15px;
+}
+
+
+.circle-skills .progressbar .circle{
+
+	text-align: left;
+	color:white;
+}
+
+.circle canvas{
+
+	vertical-align:middle;
+
+}
+
+.circle-skills .progressbar .circle div{
+
+	margin-left: 28px !important;
+	text-align:left !important;
+
+}
+
+
+.circle-skills .progressbar .circle h4{
+
+	margin-top:24px;
+	letter-spacing:1px;
+}
+
+
+.circle-skills .progressbar .circle p{
+
+	color:white;
+}
+
+.btn-xs{
+
+	padding:3px 9px 2px 9px;
+	font-size: 10px;
+}
+
+.footer{
+
+	background-color: rgb(73,73,73);
+	height: 200px;
+	display: block;
+}
+
+.upppercase{
+	text-transform: uppercase;
+
+}
+
+.creativeText{
+	height: 100px;
+
+}
+
+
+.inline-block{
+
+	display: inline-block;
+}
+
+
+.footer p{
+
+	padding-top:10px;
+	color:#b7b7b7;
+}
